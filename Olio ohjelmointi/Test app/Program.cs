@@ -20,6 +20,8 @@ namespace Test_app
             koira2.rotu = "Kultainen noutaja";
 
             koira2.TulostaData();
+
+            Koira koira3 = new Koira("Urho", 5, "Mopsi");
         }
     }
 }
