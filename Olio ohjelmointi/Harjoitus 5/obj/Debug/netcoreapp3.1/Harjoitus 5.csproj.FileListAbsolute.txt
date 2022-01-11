@@ -1,0 +1,13 @@
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\bin\Debug\netcoreapp3.1\Harjoitus 5.exe
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\bin\Debug\netcoreapp3.1\Harjoitus 5.deps.json
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\bin\Debug\netcoreapp3.1\Harjoitus 5.runtimeconfig.json
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\bin\Debug\netcoreapp3.1\Harjoitus 5.runtimeconfig.dev.json
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\bin\Debug\netcoreapp3.1\Harjoitus 5.dll
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\bin\Debug\netcoreapp3.1\Harjoitus 5.pdb
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\obj\Debug\netcoreapp3.1\Harjoitus 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\obj\Debug\netcoreapp3.1\Harjoitus 5.AssemblyInfoInputs.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\obj\Debug\netcoreapp3.1\Harjoitus 5.AssemblyInfo.cs
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\obj\Debug\netcoreapp3.1\Harjoitus 5.csproj.CoreCompileInputs.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\obj\Debug\netcoreapp3.1\Harjoitus 5.dll
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\obj\Debug\netcoreapp3.1\Harjoitus 5.pdb
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjoitus 5\obj\Debug\netcoreapp3.1\Harjoitus 5.genruntimeconfig.cache
