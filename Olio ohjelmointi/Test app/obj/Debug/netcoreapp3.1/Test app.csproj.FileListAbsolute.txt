@@ -3,3 +3,12 @@ C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovel
 C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\obj\Debug\netcoreapp3.1\Test app.AssemblyInfoInputs.cache
 C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\obj\Debug\netcoreapp3.1\Test app.AssemblyInfo.cs
 C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\obj\Debug\netcoreapp3.1\Test app.csproj.CoreCompileInputs.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\bin\Debug\netcoreapp3.1\Test app.exe
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\bin\Debug\netcoreapp3.1\Test app.deps.json
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\bin\Debug\netcoreapp3.1\Test app.runtimeconfig.json
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\bin\Debug\netcoreapp3.1\Test app.runtimeconfig.dev.json
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\bin\Debug\netcoreapp3.1\Test app.dll
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\bin\Debug\netcoreapp3.1\Test app.pdb
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\obj\Debug\netcoreapp3.1\Test app.dll
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\obj\Debug\netcoreapp3.1\Test app.pdb
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Test app\obj\Debug\netcoreapp3.1\Test app.genruntimeconfig.cache
