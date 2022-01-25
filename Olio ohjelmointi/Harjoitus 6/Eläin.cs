@@ -13,8 +13,8 @@ namespace Harjoitus_6
             instanssit++;
         }
 
-        public stativ void KuinkaMonta
+        public static void KuinkaMonta
 
-        public abstract void Ääntele();
+        public abstract void Ääntele
     }
 }

@@ -5,13 +5,21 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test app", "Test app\Test app.csproj", "{0D94D513-7CF6-49C8-8245-1FE23CC3EF58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 5", "Harjoitus 5\Harjoitus 5.csproj", "{9D1C6156-49DA-463F-AA8A-3A61338F31C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 5", "Harjoitus 5\Harjoitus 5.csproj", "{9D1C6156-49DA-463F-AA8A-3A61338F31C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perintä", "Perintä\Perintä.csproj", "{1FFACD76-C4C7-430E-8921-BFA9E26D90EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Perintä", "Perintä\Perintä.csproj", "{1FFACD76-C4C7-430E-8921-BFA9E26D90EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraktiivisuus", "Abstraktiivisuus\Abstraktiivisuus.csproj", "{97C0DF5F-9F75-450D-8F4E-447F23FE753C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraktiivisuus", "Abstraktiivisuus\Abstraktiivisuus.csproj", "{97C0DF5F-9F75-450D-8F4E-447F23FE753C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 6", "Harjoitus 6\Harjoitus 6.csproj", "{DB768FDF-358E-408E-81C4-7DA47599558D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 6", "Harjoitus 6\Harjoitus 6.csproj", "{DB768FDF-358E-408E-81C4-7DA47599558D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus 15", "Harjotus 15\Harjotus 15.csproj", "{EE82A178-791A-4925-AF70-ED219E874A6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjotus 16", "Harjotus 16\Harjotus 16.csproj", "{93DC7FCA-B4C8-48EB-93C2-B9244044BAB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sivujen vaihto", "Sivujen vaihto\Sivujen vaihto.csproj", "{04CEA0C8-3055-492C-A4BA-F4F015C7C3D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus 23", "Harjoitus 23\Harjoitus 23.csproj", "{26F7FAC7-E7A4-40D0-8771-E6ECAAF82487}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{DB768FDF-358E-408E-81C4-7DA47599558D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB768FDF-358E-408E-81C4-7DA47599558D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB768FDF-358E-408E-81C4-7DA47599558D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE82A178-791A-4925-AF70-ED219E874A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE82A178-791A-4925-AF70-ED219E874A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE82A178-791A-4925-AF70-ED219E874A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE82A178-791A-4925-AF70-ED219E874A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93DC7FCA-B4C8-48EB-93C2-B9244044BAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DC7FCA-B4C8-48EB-93C2-B9244044BAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DC7FCA-B4C8-48EB-93C2-B9244044BAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DC7FCA-B4C8-48EB-93C2-B9244044BAB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04CEA0C8-3055-492C-A4BA-F4F015C7C3D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CEA0C8-3055-492C-A4BA-F4F015C7C3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CEA0C8-3055-492C-A4BA-F4F015C7C3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CEA0C8-3055-492C-A4BA-F4F015C7C3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F7FAC7-E7A4-40D0-8771-E6ECAAF82487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F7FAC7-E7A4-40D0-8771-E6ECAAF82487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F7FAC7-E7A4-40D0-8771-E6ECAAF82487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F7FAC7-E7A4-40D0-8771-E6ECAAF82487}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

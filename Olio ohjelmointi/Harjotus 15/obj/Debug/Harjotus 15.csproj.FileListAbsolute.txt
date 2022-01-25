@@ -1,0 +1,15 @@
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\bin\Debug\Harjotus 15.exe.config
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\bin\Debug\Harjotus 15.exe
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\bin\Debug\Harjotus 15.pdb
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\Harjotus 15.csproj.AssemblyReference.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\MainWindow.g.cs
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\App.g.cs
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\Harjotus 15_MarkupCompile.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\Harjotus 15_MarkupCompile.lref
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\MainWindow.baml
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\Harjotus 15.g.resources
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\Harjotus_15.Properties.Resources.resources
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\Harjotus 15.csproj.GenerateResource.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\Harjotus 15.csproj.CoreCompileInputs.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\Harjotus 15.exe
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Harjotus 15\obj\Debug\Harjotus 15.pdb

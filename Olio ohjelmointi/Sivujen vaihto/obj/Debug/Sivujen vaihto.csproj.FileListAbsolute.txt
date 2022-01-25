@@ -1,0 +1,17 @@
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\bin\Debug\Sivujen vaihto.exe.config
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\bin\Debug\Sivujen vaihto.exe
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\bin\Debug\Sivujen vaihto.pdb
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\Sivujen vaihto.csproj.AssemblyReference.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\MainWindow.g.cs
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\Page1.g.cs
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\App.g.cs
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\Sivujen vaihto_MarkupCompile.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\Sivujen vaihto_MarkupCompile.lref
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\MainWindow.baml
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\Page1.baml
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\Sivujen vaihto.g.resources
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\Sivujen_vaihto.Properties.Resources.resources
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\Sivujen vaihto.csproj.GenerateResource.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\Sivujen vaihto.csproj.CoreCompileInputs.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\Sivujen vaihto.exe
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Sivujen vaihto\obj\Debug\Sivujen vaihto.pdb
