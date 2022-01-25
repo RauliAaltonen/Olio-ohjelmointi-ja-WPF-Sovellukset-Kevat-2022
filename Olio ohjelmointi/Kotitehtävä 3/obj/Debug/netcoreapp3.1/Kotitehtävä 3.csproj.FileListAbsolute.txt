@@ -1,0 +1,14 @@
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\bin\Debug\netcoreapp3.1\Kotitehtävä 3.exe
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\bin\Debug\netcoreapp3.1\Kotitehtävä 3.deps.json
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\bin\Debug\netcoreapp3.1\Kotitehtävä 3.runtimeconfig.json
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\bin\Debug\netcoreapp3.1\Kotitehtävä 3.runtimeconfig.dev.json
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\bin\Debug\netcoreapp3.1\Kotitehtävä 3.dll
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\bin\Debug\netcoreapp3.1\Kotitehtävä 3.pdb
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\obj\Debug\netcoreapp3.1\Kotitehtävä 3.csproj.AssemblyReference.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\obj\Debug\netcoreapp3.1\Kotitehtävä 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\obj\Debug\netcoreapp3.1\Kotitehtävä 3.AssemblyInfoInputs.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\obj\Debug\netcoreapp3.1\Kotitehtävä 3.AssemblyInfo.cs
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\obj\Debug\netcoreapp3.1\Kotitehtävä 3.csproj.CoreCompileInputs.cache
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\obj\Debug\netcoreapp3.1\Kotitehtävä 3.dll
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\obj\Debug\netcoreapp3.1\Kotitehtävä 3.pdb
+C:\Users\Rauli Aaltonen\source\repos\RauliAaltonen\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\Olio ohjelmointi\Kotitehtävä 3\obj\Debug\netcoreapp3.1\Kotitehtävä 3.genruntimeconfig.cache
